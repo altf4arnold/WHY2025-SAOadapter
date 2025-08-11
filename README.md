@@ -1,2 +1,3 @@
-# WHY2025-SAOadapter
-SAO adapter for the WHY 2025 badge
+# WHY2025 badge SAO adapter
+
+Readme and pictures coming later, enjoy the camp!
